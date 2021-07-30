@@ -1,0 +1,12 @@
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\bin\Debug\CrmConsoleApp.exe.config
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\bin\Debug\CrmConsoleApp.exe
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\bin\Debug\CrmConsoleApp.pdb
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\obj\Debug\CrmConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\obj\Debug\CrmConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\obj\Debug\CrmConsoleApp.csproj.CopyComplete
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\obj\Debug\CrmConsoleApp.exe
+C:\Users\Owais\source\repos\CrmConsoleApp\CrmConsoleApp\obj\Debug\CrmConsoleApp.pdb
